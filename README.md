@@ -1,6 +1,6 @@
 ## Hi there, my name is Alejandro Manouellian 👋
 
-* **Full-stack Web developer
+* **Full-stack Web developer**
 
 
 ## 🌎 Contact me: ⤵️
@@ -13,6 +13,32 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>  
 
+## ⭐Programming languages and technologies:
+<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React"/></code>
+<code><img height="64" src="https://cms-assets.tutsplus.com/uploads/users/1795/posts/30352/preview_image/ReduxLogo.jpg" alt="Redux"/></code>
+<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="64" src="https://img2.freepng.es/20180408/pew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg" alt="C++"/></code>
+<code><img height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="Postgresql"/></code>
+
+## Soft Skils 
+![](https://img.shields.io/badge/Decision%20making-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Problem%20solving-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Teamwork-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Communication%20skills-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/commitment-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/leadership-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/stress%20resistance-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Emotional%20intelligence-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/creativity-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Time%20management%20and%20organization-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/People%20skills%20and%20management-2D333B?style=for-the-badge)
+
+## 🚀  GitHub Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleema95&show_icons=true&theme=tokyonight)
 <!--
 **aleema95/aleema95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
