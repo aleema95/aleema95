@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/Time%20management%20and%20organization-2D333B?style=for-the-badge)
 ![](https://img.shields.io/badge/People%20skills%20and%20management-2D333B?style=for-the-badge)
 
-## 🚀  GitHub Estatísticas
+## 🚀  GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleema95&show_icons=true&theme=tokyonight)
 <!--
