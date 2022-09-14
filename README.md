@@ -2,6 +2,12 @@
 
 * **Full-stack Web developer**
 
+Creator of an individual project and leader of a group project, for the SoyHenry academy.
+
+At the same time i was Teaching-Asistant, coordinating a students group from the same academy, to help them develop their soft-skills and help them with their daily homework.
+
+Who am i?
+Having worked all my life on the gastronomic industry, but always interested on technology, i decided to study web programming. Initially studing self-taught, then choose to enter the SoyHenry academy principally because it was intensive, and i needed a challenge. After 4 months of study i not only graduated, i've met exceptional people.
 
 ## 🌎 Contact me: ⤵️
 
